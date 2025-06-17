@@ -71,7 +71,11 @@ The game window will open. Use your keyboard to play!
 
 This project is for educational purposes.
 
----
+## 🔮 Perspectives
 
+A future prospect for this project is to train a reinforcement learning model to play this game automatically. This will enable us to explore artificial intelligence applied to video games and improve the performance of agents in interactive environments.
+
+
+---
 Enjoy playing!  
 Feel free to contribute or suggest improvements.
